@@ -1,5 +1,5 @@
 {
-  "name": "pure-framework-hello-world-app",
+  "name": "pure-framework-todo-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maleksandar/pure-framework-hello-world-app.git"
+    "url": "git+https://github.com/maleksandar/pure-framework-todo-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maleksandar/pure-framework-hello-world-app/issues"
+    "url": "https://github.com/maleksandar/pure-framework-todo-app/issues"
   },
-  "homepage": "https://github.com/maleksandar/pure-framework-hello-world-app#readme",
+  "homepage": "https://github.com/maleksandar/pure-framework-todo-app#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "parcel": "^2.0.0-rc.0",
