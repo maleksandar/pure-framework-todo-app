@@ -1,0 +1,26 @@
+{
+  "name": "pure-framework-hello-world-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maleksandar/pure-framework-hello-world-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maleksandar/pure-framework-hello-world-app/issues"
+  },
+  "homepage": "https://github.com/maleksandar/pure-framework-hello-world-app#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "parcel": "^2.0.0-rc.0",
+    "pure-framework": "^0.1.5"
+  }
+}
