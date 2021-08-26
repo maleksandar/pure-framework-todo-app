@@ -21,6 +21,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "parcel": "^2.0.0-rc.0",
-    "pure-framework": "^0.1.5"
+    "pure-framework": "^0.1.6"
   }
 }
