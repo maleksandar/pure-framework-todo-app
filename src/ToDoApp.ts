@@ -35,7 +35,7 @@ class ToDoApp extends Component<ToDoState> {
     });
     
     return div([
-        header('TODO'),
+        header('TO-DO'),
         div({class:'inputField'},[
           todoInput,
           addTaskButton
