@@ -2,7 +2,7 @@ import { Component, componentFactory } from "pure-framework/core"
 import { button, div, header, inputText, italic, li, span, ul } from "pure-framework/html";
 import { store } from "./store";
 import { ToDoState } from "./model"
-import { ButtonElement } from "pure-framework/html/block-elements/buttonElement";
+import { ButtonElement } from "pure-framework/html/block/elements/buttonElement";
 
 class ToDoApp extends Component<ToDoState> {
 
